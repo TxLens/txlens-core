@@ -1,0 +1,24 @@
+{
+  "name": "txlens-extension",
+  "version": "1.0.0",
+  "description": "See exactly what you're signing before you sign it.  Currently in early development. Building in public",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TxLens/txlens-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TxLens/txlens-core/issues"
+  },
+  "homepage": "https://github.com/TxLens/txlens-core#readme",
+  "dependencies": {
+    "ethers": "^6.16.0"
+  }
+}
